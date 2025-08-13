@@ -1,0 +1,24 @@
+{
+  "name": "blog-page-",
+  "version": "1.0.0",
+  "description": "replicating a fully functional blog page using restful  Api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amrutha-NV/blog-page-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amrutha-NV/blog-page-/issues"
+  },
+  "homepage": "https://github.com/Amrutha-NV/blog-page-#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

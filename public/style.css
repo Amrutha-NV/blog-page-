@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-decoration: none;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h2 {
+    color: white;
+}
+
+div {
+    background-color: darkorchid;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
